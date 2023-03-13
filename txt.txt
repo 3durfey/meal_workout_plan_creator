@@ -1,0 +1,22 @@
+Meal plan information for Luke
+Total calorie needed: 2092
+
+Protein source: chicken
+Amount needed (in grams): 209.2
+
+Carb source: 
+Amount needed (in grams): 261.5
+
+Fat source: whole milk
+Amount needed (in grams): 10.46
+
+
+Workout plan information for Luke
+Workout split details: Monday - cardio and chest/triceps, Wednesday - cardio and legs, Friday - cardio and back/biceps, Saturday - shoulders/traps
+
+Cardio details: elliptical
+Max Heartrate: 190
+
+Modifications to plan based on goal: 60 minutes of cardio, sets of 8-12, 3 sets of 3 exercises
+
+
